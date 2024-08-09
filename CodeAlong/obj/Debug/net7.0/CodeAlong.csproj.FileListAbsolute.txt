@@ -1,0 +1,15 @@
+/Users/ziogas/Projects/CodeAlong/CodeAlong/obj/Debug/net7.0/CodeAlong.csproj.AssemblyReference.cache
+/Users/ziogas/Projects/CodeAlong/CodeAlong/obj/Debug/net7.0/CodeAlong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ziogas/Projects/CodeAlong/CodeAlong/obj/Debug/net7.0/CodeAlong.AssemblyInfoInputs.cache
+/Users/ziogas/Projects/CodeAlong/CodeAlong/obj/Debug/net7.0/CodeAlong.AssemblyInfo.cs
+/Users/ziogas/Projects/CodeAlong/CodeAlong/obj/Debug/net7.0/CodeAlong.csproj.CoreCompileInputs.cache
+/Users/ziogas/Projects/CodeAlong/CodeAlong/bin/Debug/net7.0/CodeAlong
+/Users/ziogas/Projects/CodeAlong/CodeAlong/bin/Debug/net7.0/CodeAlong.deps.json
+/Users/ziogas/Projects/CodeAlong/CodeAlong/bin/Debug/net7.0/CodeAlong.runtimeconfig.json
+/Users/ziogas/Projects/CodeAlong/CodeAlong/bin/Debug/net7.0/CodeAlong.dll
+/Users/ziogas/Projects/CodeAlong/CodeAlong/bin/Debug/net7.0/CodeAlong.pdb
+/Users/ziogas/Projects/CodeAlong/CodeAlong/obj/Debug/net7.0/CodeAlong.dll
+/Users/ziogas/Projects/CodeAlong/CodeAlong/obj/Debug/net7.0/refint/CodeAlong.dll
+/Users/ziogas/Projects/CodeAlong/CodeAlong/obj/Debug/net7.0/CodeAlong.pdb
+/Users/ziogas/Projects/CodeAlong/CodeAlong/obj/Debug/net7.0/CodeAlong.genruntimeconfig.cache
+/Users/ziogas/Projects/CodeAlong/CodeAlong/obj/Debug/net7.0/ref/CodeAlong.dll
